@@ -64,15 +64,3 @@ The following is the `HashMap.java` implementation:
 // Insert the content of HashMap.java here
 ```
 
-## Contributing
-
-Contributions are welcome! If you have any suggestions or improvements, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-- [Java Documentation](https://docs.oracle.com/javase/8/docs/)
-- [HashMap Documentation](https://docs.oracle.com/javase/8/docs/api/java/util/HashMap.html)
