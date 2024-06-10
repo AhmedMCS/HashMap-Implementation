@@ -56,11 +56,3 @@ public class Main {
 }
 ```
 
-## Implementation
-
-The following is the `HashMap.java` implementation:
-
-```java
-// Insert the content of HashMap.java here
-```
-
