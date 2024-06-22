@@ -4,7 +4,6 @@ public class Driver {
         HashMap <String, String> map = new HashMap <String, String> ();
 
         map.put("Cairo", "Egypt");
-        map.put("Paris", "France");
         map.put("London", "United Kingdom");
         map.put("Rome", "Italy");
         map.put("Seoul", "Korea");
